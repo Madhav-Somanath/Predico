@@ -1,2 +1,2 @@
 # Predico
-Smart disease prediction system with user authentication and interface.
+Smart disease prediction system made using streamlit.
