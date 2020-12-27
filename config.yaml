@@ -19,8 +19,8 @@ model:
     criterion: 'entropy'
 
   # Random Forest Classifier
-  random_forest:
-    n_estimators: 10
+  random_f:
+    n_estimators: 50
 
 # Model Save Path
 model_save_path: './saved_model/'
