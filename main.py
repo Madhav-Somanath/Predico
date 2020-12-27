@@ -4,10 +4,8 @@
 import yaml
 from joblib import dump, load
 import pandas as pd
-from sklearn.model_selection import train_test_split, cross_val_score
-from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
-# Naive Bayes Approach
-from sklearn.naive_bayes import MultinomialNB
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score
 # Trees Approach
 from sklearn.tree import DecisionTreeClassifier
 # Ensemble Approach
