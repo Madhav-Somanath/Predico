@@ -1,0 +1,26 @@
+# This file contains the Project Configuration Parameters
+
+# Random State
+random_state: 42
+
+# Dataset Path
+dataset:
+  # Training Dataset Path
+  training_data_path: './dataset/training_data.csv'
+  # Test Dataset Path
+  test_data_path: './dataset/test_data.csv'
+  # Validation Data Size for train_test_split
+  validation_size: 0.20
+
+# Model Parameters
+model:
+  # Decision Tree
+  decision_tree:
+    criterion: 'entropy'
+
+  # Random Forest Classifier
+  random_forest:
+    n_estimators: 10
+
+# Model Save Path
+model_save_path: './saved_model/'
