@@ -30,4 +30,6 @@ To create a smart disease prediction system made using traditional machine learn
 * Python 3.8
 * Streamlit ([streamlit.io](https://www.streamlit.io/))
 
+Read a brief report of the following project [here](https://github.com/Madhav-Somanath/Predico/blob/main/Report.pdf)
+
 **Contributions are welcome please consider making a pull request!**
